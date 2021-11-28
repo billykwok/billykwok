@@ -2745,7 +2745,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sveltejs/kit</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2787,7 +2787,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kleisauke/wasm-vips</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2829,7 +2829,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/np</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2910,7 +2910,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Nov 2021, 08:31:56 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 28 Nov 2021, 09:48:54 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
