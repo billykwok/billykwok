@@ -1452,7 +1452,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            867 Commits
+            868 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1667,14 +1667,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.10760770814375" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="291.10760770814375" y="0" width="81.69269339358246" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="372.8003011017262" y="0" width="51.55013744188524" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="424.35043854361146" y="0" width="19.203617451854324" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="443.5540559954658" y="0" width="6.516164735111758" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="450.07022073057755" y="0" width="4.298199077935329" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="454.36841980851284" y="0" width="3.863553080242811" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.23197288875565" y="0" width="1.7680271112443295" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.12523335990943" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="288.12523335990943" y="0" width="80.8557582302134" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="368.98099159012287" y="0" width="51.08019504428216" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="420.061186634405" y="0" width="23.661356752777433" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="443.7225433871824" y="0" width="6.449407144309287" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="450.1719505314917" y="0" width="4.254164369345746" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="454.4261149008374" y="0" width="3.8239712854203622" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.25008618625776" y="0" width="1.749913813742176" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2760,7 +2760,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PaulieScanlon/mdx-embed</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2802,7 +2802,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rNeomy/javascript-toggle-on-and-off</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2917,7 +2917,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Dec 2021, 00:14:02 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 30 Dec 2021, 01:18:34 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
