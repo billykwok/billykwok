@@ -1460,7 +1460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arcanis/magicbin</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple process manager; alternative to pm2</div>
@@ -1507,7 +1507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mswjs/http-middleware</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Spawn an HTTP server from your request handlers or apply them to an existing server using a middleware.</div>
@@ -1554,7 +1554,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mswjs/data</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Data modeling and relation library for testing JavaScript applications.</div>
@@ -1651,7 +1651,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jan 2022, 03:08:46 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 7 Jan 2022, 04:10:26 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
