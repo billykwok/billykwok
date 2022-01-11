@@ -1450,7 +1450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vega/vega</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A visualization grammar.</div>
@@ -1503,7 +1503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vega/vega-lite</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A concise grammar of interactive graphics, built on Vega.</div>
@@ -1653,7 +1653,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jan 2022, 20:18:32 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 11 Jan 2022, 21:19:17 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
