@@ -1534,7 +1534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aragon/aragonOS</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">(Aragon 1) Reference implementation for aragonOS: a Solidity framework for building complex dApps and protocols</div>
@@ -1587,7 +1587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sharkdp/pastel</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command-line tool to generate, analyze, convert and manipulate colors</div>
@@ -1637,7 +1637,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jan 2022, 08:32:14 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 23 Jan 2022, 09:51:16 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
