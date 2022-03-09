@@ -1594,7 +1594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotnet/roslyn</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.</div>
@@ -1644,7 +1644,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Mar 2022, 02:12:08 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 10 Mar 2022, 03:08:59 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
