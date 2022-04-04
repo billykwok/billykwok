@@ -1435,7 +1435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blynkkk/blynk-library</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.</div>
@@ -1488,7 +1488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adafruit/Adafruit_NeoPixel</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)</div>
@@ -1644,7 +1644,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Apr 2022, 16:13:19 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 4 Apr 2022, 17:11:02 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
