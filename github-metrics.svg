@@ -1451,7 +1451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kentcdodds/match-sorter</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, expected, and deterministic best-match sorting of an array in JavaScript</div>
@@ -1504,7 +1504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>video-dev/hls.js</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.</div>
@@ -1557,7 +1557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-component/slider</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Slider</div>
@@ -1660,7 +1660,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Apr 2022, 06:10:55 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 28 Apr 2022, 07:10:59 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
