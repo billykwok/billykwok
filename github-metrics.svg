@@ -1418,7 +1418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reach/reach-ui</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Accessible Foundation for React Apps and Design Systems</div>
@@ -1471,7 +1471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudflare/isbgpsafeyet.com</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Is BGP safe yet?</div>
@@ -1628,7 +1628,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2022, 12:24:16 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 29 Apr 2022, 13:14:41 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
