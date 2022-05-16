@@ -1441,7 +1441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hatashiro/kawa</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A macOS input source switcher with user-defined shortcuts.</div>
@@ -1494,7 +1494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>changesets/changesets</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦋       A way to manage your versioning and changelogs with a focus on monorepos</div>
@@ -1547,7 +1547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>quickwit-oss/tantivy</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust</div>
@@ -1600,7 +1600,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Saul-Mirone/milkdown</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍼 Plugin driven WYSIWYG  markdown editor framework.</div>
@@ -1650,7 +1650,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 May 2022, 23:12:51 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 17 May 2022, 00:17:01 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
