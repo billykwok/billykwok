@@ -1429,7 +1429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Planetable/Planet</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Decentralized blogs and websites powered by IPFS and Ethereum Name System</div>
@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>generative-design/Code-Package-p5.js</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code package of the book: Generative Design – Creative Coding for the Web with JavaScript in p5.js</div>
@@ -1633,7 +1633,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jun 2022, 04:10:51 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 7 Jun 2022, 05:09:16 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
