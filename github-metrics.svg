@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>osxfuse/osxfuse</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FUSE extends macOS by adding support for user space file systems</div>
@@ -1625,7 +1625,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2022, 03:08:15 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 20 Jun 2022, 04:11:22 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
