@@ -1440,7 +1440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/react-postprocessing</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📬  postprocessing for react-three-fiber</div>
@@ -1493,7 +1493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wuct/raf-throttle</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Throttle a function by requestAnimationFrame</div>
@@ -1546,7 +1546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pngwn/MDsveX</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A markdown preprocessor for Svelte.</div>
@@ -1599,7 +1599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EMH333/esbuild-svelte</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An esbuild plugin to compile Svelte components</div>
@@ -1649,7 +1649,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jun 2022, 00:15:17 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 29 Jun 2022, 01:20:01 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
