@@ -1512,7 +1512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codrops/WebGLBlobs</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Demos for the tutorial on how to deform and color spheres in Three.js.</div>
@@ -1565,7 +1565,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tuqire/webcam-outline</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Webcam feed converted to a comic like design. GPGPU, THREE.js, WEBGL.</div>
@@ -1609,7 +1609,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jul 2022, 14:13:57 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 29 Jul 2022, 15:09:59 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
