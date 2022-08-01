@@ -1435,7 +1435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ultimaker/Cura</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">3D printer / slicing GUI built on top of the Uranium framework</div>
@@ -1488,7 +1488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>drawcall/threejs-mesh-modifiers</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Three.js mesh morph modifier</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Aug 2022, 05:09:57 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 2 Aug 2022, 06:11:23 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
