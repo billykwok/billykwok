@@ -1444,7 +1444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>threedle/text2mesh</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">3D mesh stylization driven by a text input in PyTorch</div>
@@ -1603,7 +1603,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rich-Harris/magic-string</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Manipulate strings like a wizard</div>
@@ -1653,7 +1653,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Aug 2022, 09:08:30 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 25 Aug 2022, 12:05:33 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
