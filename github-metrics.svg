@@ -1564,7 +1564,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/DeepSpeech</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.</div>
@@ -1614,7 +1614,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Oct 2022, 09:22:37 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 1 Oct 2022, 12:23:21 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
