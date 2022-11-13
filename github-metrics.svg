@@ -1428,7 +1428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoogleChrome/web-vitals</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Essential metrics for a healthy site.</div>
@@ -1528,7 +1528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>material-components/material-web</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Material Design Web Components</div>
@@ -1631,7 +1631,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Nov 2022, 16:14:15 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Nov 2022, 17:11:12 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
