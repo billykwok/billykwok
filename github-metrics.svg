@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikea/gdrive-webdav</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Webdav bridge for Google Drive</div>
@@ -1516,7 +1516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoogleChrome/web-vitals</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Essential metrics for a healthy site.</div>
@@ -1613,7 +1613,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Nov 2022, 12:15:53 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 20 Nov 2022, 13:09:54 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
