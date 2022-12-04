@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arduino/arduino-fwuploader</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Command Line Tool made to update the firmware and/or add SSL certificates for any Arduino board equipped with WINC or NINA Wi-Fi module.</div>
@@ -1632,7 +1632,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Dec 2022, 22:08:40 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 4 Dec 2022, 23:09:31 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
