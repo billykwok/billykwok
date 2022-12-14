@@ -1445,7 +1445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openupm/openupm</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenUPM - Open Source Unity Package Registry (UPM)</div>
@@ -1498,7 +1498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openupm/openupm-cli</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The OpenUPM-CLI is a command-line interface for maintaining UPM registries.</div>
@@ -1649,7 +1649,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Dec 2022, 12:12:22 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 14 Dec 2022, 13:09:52 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
