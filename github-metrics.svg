@@ -1418,7 +1418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WebKit/Speedometer</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source repository for the Speedometer benchmark</div>
@@ -1577,7 +1577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openupm/openupm</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenUPM - Open Source Unity Package Registry (UPM)</div>
@@ -1627,7 +1627,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Dec 2022, 15:08:51 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 16 Dec 2022, 16:12:12 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
