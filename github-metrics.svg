@@ -1423,7 +1423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asdf-community/asdf-direnv</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">direnv plugin for the asdf version manager</div>
@@ -1476,7 +1476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spack/spack</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A flexible package manager that supports multiple versions, configurations, platforms, and compilers.</div>
@@ -1529,7 +1529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arktypeio/arktype</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript's 1:1 validator, optimized from editor to runtime</div>
@@ -1582,7 +1582,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BuilderIO/gpt-assistant</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An experiment to give an autonomous GPT agent access to a browser and have it accomplish tasks</div>
@@ -1626,7 +1626,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Apr 2023, 15:08:05 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 15 Apr 2023, 16:10:54 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
