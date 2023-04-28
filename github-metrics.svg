@@ -1412,7 +1412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/next-mdx-remote</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Load mdx content from anywhere through getStaticProps in next.js</div>
@@ -1465,7 +1465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>markdoc/markdoc</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful, flexible, Markdown-based authoring framework.</div>
@@ -1518,7 +1518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remarkjs/remark-gfm</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">remark plugin to support GFM (autolink literals, footnotes, strikethrough, tables, tasklists)</div>
@@ -1571,7 +1571,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bnaya/objectbuffer</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript Object like api, backed by an arraybuffer</div>
@@ -1621,7 +1621,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2023, 02:10:51 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Apr 2023, 03:07:21 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
