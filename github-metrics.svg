@@ -1417,7 +1417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ascorbic/unpic</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Universal image CDN translator</div>
@@ -1464,7 +1464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeeliz/jeelizWeboji</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript/WebGL real-time face tracking and expression detection library. Build your own emoticons animated in real time in the browser! SVG and THREE.js integration demos are provided.</div>
@@ -1517,7 +1517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bvaughn/react-window</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React components for efficiently rendering large lists and tabular data</div>
@@ -1570,7 +1570,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/next-mdx-remote</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Load mdx content from anywhere through getStaticProps in next.js</div>
@@ -1620,7 +1620,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2023, 22:07:36 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Apr 2023, 23:08:15 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
