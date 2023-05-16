@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-native-async-storage/async-storage</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An asynchronous, persistent, key-value storage system for React Native.</div>
@@ -1487,7 +1487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uilicious/english-compiler</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">POC AI based Compiler, for converting english based markdown specs, into functional code</div>
@@ -1643,7 +1643,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 May 2023, 00:11:27 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 May 2023, 01:08:07 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
