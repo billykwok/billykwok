@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alvarlagerlof/rsc-parser</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A parser for the React Server components when sent over the network</div>
@@ -1481,7 +1481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datopian/flowershow</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💐 Publish your digital garden or any markdown site easily and elegantly.</div>
@@ -1534,7 +1534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meliorence/react-native-render-html</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">iOS/Android pure javascript react-native component that renders your HTML into 100% native views</div>
@@ -1587,7 +1587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-native-webview/react-native-webview</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Native Cross-Platform WebView</div>
@@ -1637,7 +1637,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 May 2023, 10:02:58 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 May 2023, 11:10:00 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
