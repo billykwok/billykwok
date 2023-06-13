@@ -1440,7 +1440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Munter/subfont</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command line tool to optimize your webfont loading. Aggressive subsetting based on your font use, self-hosting of Google fonts and preloading</div>
@@ -1493,7 +1493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seek-oss/capsize</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flipping how we define typography in CSS.</div>
@@ -1546,7 +1546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danielroe/fontaine</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatic font fallback based on font metrics</div>
@@ -1599,7 +1599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ebeaufay/UltraGlobe</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A globe in threejs with OGC WMS imagery, OGC 3dtiles and elevation</div>
@@ -1649,7 +1649,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jun 2023, 20:17:27 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Jun 2023, 21:12:07 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
