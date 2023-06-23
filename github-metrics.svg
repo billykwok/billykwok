@@ -1412,7 +1412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/draco</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.</div>
@@ -1621,7 +1621,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jun 2023, 14:14:11 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Jun 2023, 15:10:00 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
