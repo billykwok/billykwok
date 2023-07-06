@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1043 Commits
+                            1049 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -321,14 +321,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="172.04117751447893" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="172.04117751447893" y="0" width="150.35817443922414" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="322.3993519537031" y="0" width="48.12434092924685" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="370.52369288294994" y="0" width="42.183517847134375" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="412.70721073008434" y="0" width="26.832936794752495" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="439.5401475248368" y="0" width="8.182735991360573" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="447.7228835161974" y="0" width="7.22919744188027" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.95208095807766" y="0" width="5.047919041922363" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="172.00377023520227" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="172.00377023520227" y="0" width="150.32548174144077" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="322.3292519766431" y="0" width="48.11387715140509" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="370.44312912804816" y="0" width="42.174345795095576" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="412.61747492314373" y="0" width="26.930171521740704" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="439.54764644488444" y="0" width="8.180956801663672" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="447.7286032465481" y="0" width="7.224575291307229" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.95317853785536" y="0" width="5.046821462144688" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1444,7 +1444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asdf-vm/asdf-nodejs</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node.js plugin for asdf version manager</div>
@@ -1497,7 +1497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/its-fine</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐶🔥 A collection of escape hatches for React.</div>
@@ -1550,7 +1550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/react-three-babel</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🛍 A Babel plugin that automatically builds the extend catalogue of known native Three.js elements</div>
@@ -1653,7 +1653,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jul 2023, 14:13:58 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Jul 2023, 15:10:57 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
