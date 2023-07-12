@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/zstd</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zstandard - Fast real-time compression algorithm</div>
@@ -1648,7 +1648,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jul 2023, 16:13:23 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Jul 2023, 17:10:22 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
