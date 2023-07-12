@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Flet/rejected-github-profile-achievements</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😵 GitHub achievements that did not make the cut.</div>
@@ -1486,7 +1486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>syntax-tree/mdast-util-mdx</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">mdast extension to parse and serialize MDX (or MDX.js)</div>
@@ -1539,7 +1539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/zstd</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zstandard - Fast real-time compression algorithm</div>
@@ -1642,7 +1642,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jul 2023, 18:10:39 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Jul 2023, 19:08:26 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
