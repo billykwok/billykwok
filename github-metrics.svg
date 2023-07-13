@@ -1444,7 +1444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailwindlabs/prettier-plugin-tailwindcss</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.</div>
@@ -1497,7 +1497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>francoismassart/eslint-plugin-tailwindcss</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ESLint plugin for Tailwind CSS usage</div>
@@ -1550,7 +1550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jsonata-js/jsonata</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JSONata query and transformation language - http://jsonata.org</div>
@@ -1603,7 +1603,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Flet/rejected-github-profile-achievements</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😵 GitHub achievements that did not make the cut.</div>
@@ -1647,7 +1647,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jul 2023, 11:23:21 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Jul 2023, 12:12:30 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
