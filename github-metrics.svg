@@ -1444,7 +1444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JetBrains/svg-sprite-loader</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Webpack loader for creating SVG sprites.</div>
@@ -1497,7 +1497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailwindlabs/prettier-plugin-tailwindcss</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.</div>
@@ -1550,7 +1550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>francoismassart/eslint-plugin-tailwindcss</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ESLint plugin for Tailwind CSS usage</div>
@@ -1603,7 +1603,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jsonata-js/jsonata</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JSONata query and transformation language - http://jsonata.org</div>
@@ -1653,7 +1653,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jul 2023, 20:20:04 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Jul 2023, 21:20:41 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
