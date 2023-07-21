@@ -1412,7 +1412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/gltfjsx</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎮 Turns GLTFs into JSX components</div>
@@ -1465,7 +1465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>syntax-tree/unist-util-find-before</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">utility to find a node before another node</div>
@@ -1518,7 +1518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>syntax-tree/unist-util-find-after</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">unist utility to find a node after another node</div>
@@ -1621,7 +1621,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jul 2023, 20:16:28 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 21 Jul 2023, 21:13:44 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
