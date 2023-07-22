@@ -1417,7 +1417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remarkjs/remark-unwrap-images</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">plugin to remove the wrapping paragraph for images</div>
@@ -1470,7 +1470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>syntax-tree/hast-util-to-mdast</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">utility to transform hast (HTML) to mdast (markdown)</div>
@@ -1523,7 +1523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>syntax-tree/mdast-squeeze-paragraphs</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">utility to remove empty paragraphs from an mdast tree</div>
@@ -1576,7 +1576,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mnmxmx/three-dom-alignment</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1621,7 +1621,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jul 2023, 08:52:00 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Jul 2023, 10:01:52 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
