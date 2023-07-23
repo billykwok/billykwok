@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>syntax-tree/mdast-util-from-markdown</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">mdast utility to parse markdown</div>
@@ -1475,7 +1475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Flet/github-slugger</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1531,7 +1531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel/react-tweet</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Embed tweets in your React application.</div>
@@ -1584,7 +1584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>syntax-tree/mdast-util-toc</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">utility to generate a table of contents from an mdast tree</div>
@@ -1634,7 +1634,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jul 2023, 13:08:17 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Jul 2023, 14:11:22 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
