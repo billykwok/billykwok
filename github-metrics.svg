@@ -1429,7 +1429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>privatenumber/minification-benchmarks</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify</div>
@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vanilla-extract-css/vanilla-extract</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zero-runtime Stylesheets-in-TypeScript</div>
@@ -1535,7 +1535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>billykwok/reshoot</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📸 All-in-one JavaScript / Typescript image framework that makes the processing and rendering of responsive images as easy and efficient as possible.</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Aug 2023, 16:11:08 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Aug 2023, 17:09:19 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
