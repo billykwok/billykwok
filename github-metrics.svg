@@ -1548,7 +1548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/System-Color-Picker</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎨 The macOS color picker as an app with more features</div>
@@ -1601,7 +1601,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esbuild-kit/esm-loader</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node.js loader for compiling TypeScript modules to ESM</div>
@@ -1651,7 +1651,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Aug 2023, 10:13:30 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Aug 2023, 11:09:15 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
