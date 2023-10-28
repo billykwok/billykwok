@@ -1417,7 +1417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/audiocraft</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.</div>
@@ -1523,7 +1523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tajo/ladle</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🥄 Develop, test and document your React story components faster.</div>
@@ -1576,7 +1576,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aidenybai/pattycake</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zero-runtime pattern matching</div>
@@ -1626,7 +1626,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Oct 2023, 14:10:55 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2023, 15:08:53 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
