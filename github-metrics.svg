@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TanStack/bling</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💍 Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.</div>
@@ -1487,7 +1487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vanjs-org/mini-van</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mini-Van: A minimalist template engine for DOM generation and manipulation, working for both client-side and server-side rendering (SSR)</div>
@@ -1540,7 +1540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>krausest/js-framework-benchmark</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A comparison of the performance of a few popular javascript frameworks</div>
@@ -1593,7 +1593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leptos-rs/leptos</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build fast web applications with Rust.</div>
@@ -1643,7 +1643,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Nov 2023, 04:08:55 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2023, 05:08:48 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
