@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lume/element</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and simple custom elements.</div>
@@ -1487,7 +1487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nanostores/persistent</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Smart store for Nano Stores state manager to keep data in localStorage</div>
@@ -1540,7 +1540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nanostores/solid</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Global state management in Solid using nanostores.</div>
@@ -1593,7 +1593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nanostores/logger</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pretty logger of lifecycles, actions and changes for Nano Stores state manager</div>
@@ -1643,7 +1643,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Nov 2023, 05:08:27 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2023, 06:08:51 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
