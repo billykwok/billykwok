@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/worldsense</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WorldSense benchmark for grounded reasoning in language models</div>
@@ -1492,7 +1492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/react-three-next</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Three Fiber, Nextjs, Tailwind and Styled-components starter</div>
@@ -1545,7 +1545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/react-three-a11y</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">♿️ Accessibility tools for React Three Fiber</div>
@@ -1598,7 +1598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jkb0o/belly</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Define the Bevy UI tree with `eml!`, style it using a very-css-like `ess` syntax and relate data data with `bind!` and `connect!`</div>
@@ -1648,7 +1648,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Nov 2023, 04:10:06 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2023, 05:08:26 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
