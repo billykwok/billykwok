@@ -1444,7 +1444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gajus/eslint-plugin-jsdoc</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JSDoc specific linting rules for ESLint.</div>
@@ -1497,7 +1497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eslint-community/eslint-plugin-n</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Additional ESLint rules for Node.js</div>
@@ -1550,7 +1550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eslint/eslintrc</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The legacy ESLintRC config file format for ESLint</div>
@@ -1603,7 +1603,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eslint-community/eslint-plugin-eslint-comments</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Additional ESLint rules for directive comments of ESLint.</div>
@@ -1653,7 +1653,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Dec 2023, 20:15:53 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Dec 2023, 21:10:41 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
