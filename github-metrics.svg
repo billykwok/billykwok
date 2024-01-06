@@ -1417,7 +1417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>postcss/postcss-load-config</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Autoload Config for PostCSS</div>
@@ -1523,7 +1523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zeux/meshoptimizer</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mesh optimization library that makes meshes smaller and faster to render</div>
@@ -1576,7 +1576,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>atteneder/DracoUnity</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Draco 3D Data Compression Unity Package</div>
@@ -1626,7 +1626,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jan 2024, 23:08:32 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2024, 00:10:44 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
