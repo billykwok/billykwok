@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nodenv/node-build-update-defs</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scrape build definitions from nodejs.org and github.com</div>
@@ -1487,7 +1487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/p-map</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Map over promises concurrently</div>
@@ -1640,7 +1640,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jan 2024, 04:10:19 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2024, 05:08:46 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
