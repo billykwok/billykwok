@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nodenv/node-build-update-defs</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scrape build definitions from nodejs.org and github.com</div>
@@ -1645,7 +1645,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jan 2024, 12:12:08 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2024, 13:09:40 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
