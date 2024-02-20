@@ -1540,7 +1540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codiume/orbit</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of useful integrations &amp; components for the Astro ecosystem. ⭐️ Star to support our work!</div>
@@ -1593,7 +1593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vite-pwa/assets-generator</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zero-config PWA Assets Generator</div>
@@ -1643,7 +1643,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Feb 2024, 09:40:10 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Feb 2024, 10:14:24 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
