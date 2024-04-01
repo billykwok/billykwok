@@ -1429,7 +1429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotenvx/dotenvx</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a better dotenv–from the creator of `dotenv`</div>
@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liuweiGL/vite-plugin-mkcert</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provide certificates for vite's https dev service.</div>
@@ -1535,7 +1535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vitejs/vite-plugin-basic-ssl</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Basic https setup using an automatically generated self-signed certificate</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Apr 2024, 01:11:04 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Apr 2024, 02:11:30 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
