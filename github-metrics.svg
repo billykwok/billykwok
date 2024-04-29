@@ -1429,7 +1429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yt-dlp/yt-dlp</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A feature-rich command-line audio/video downloader</div>
@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/tsdoc</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A doc comment standard for TypeScript</div>
@@ -1632,7 +1632,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2024, 22:10:44 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Apr 2024, 23:09:59 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
