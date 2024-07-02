@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Automattic/node-canvas</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node canvas is a Cairo backed Canvas implementation for NodeJS.</div>
@@ -1534,7 +1534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dequelabs/axe-core</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Accessibility engine for automated Web UI testing</div>
@@ -1587,7 +1587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/chameleon</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository for Meta Chameleon, a mixed-modal early-fusion foundation model from FAIR.</div>
@@ -1637,7 +1637,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jul 2024, 20:18:26 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jul 2024, 21:12:47 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
