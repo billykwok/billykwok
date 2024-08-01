@@ -1497,7 +1497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KhronosGroup/glslang</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.</div>
@@ -1591,7 +1591,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/ocean</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ocean is the in-house framework for Computer Vision (CV) and Augmented Reality (AR) applications at Meta. It is platform independent and is mainly implemented in C/C++.</div>
@@ -1641,7 +1641,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Aug 2024, 19:09:56 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Aug 2024, 20:19:30 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
