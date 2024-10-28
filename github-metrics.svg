@@ -1535,7 +1535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/lingua</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.</div>
@@ -1588,7 +1588,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/BitNet</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official inference framework for 1-bit LLMs</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Oct 2024, 20:22:52 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2024, 21:21:41 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
