@@ -1429,7 +1429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vitejs/vite-plugin-react-swc</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Speed up your Vite dev server with SWC</div>
@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xenova/whisper-web</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ML-powered speech recognition directly in your browser</div>
@@ -1535,7 +1535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/transformers.js-examples</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of 🤗 Transformers.js demos and example applications</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Dec 2024, 20:25:09 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2024, 21:23:37 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
