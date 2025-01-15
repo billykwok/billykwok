@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-meteo/python-requests</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-Meteo Python Library using `requests`</div>
@@ -1492,7 +1492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-meteo/typescript</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-Meteo Typescript API SDK</div>
@@ -1636,7 +1636,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jan 2025, 18:12:17 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jan 2025, 19:09:38 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
