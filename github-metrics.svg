@@ -1417,7 +1417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/amazon-kinesis-video-streams-webrtc-sdk-js</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JS SDK for interfacing with the Amazon Kinesis Video Streams Signaling Service.</div>
@@ -1614,7 +1614,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jan 2025, 04:11:07 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2025, 05:11:13 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
