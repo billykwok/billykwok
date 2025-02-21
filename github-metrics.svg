@@ -1572,7 +1572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ai/nanoid</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript</div>
@@ -1622,7 +1622,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Feb 2025, 21:18:50 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2025, 22:10:16 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
