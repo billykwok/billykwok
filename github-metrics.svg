@@ -1429,7 +1429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/lerobot</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning</div>
@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vllm-project/vllm</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high-throughput and memory-efficient inference and serving engine for LLMs</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Apr 2025, 15:13:27 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Apr 2025, 16:17:50 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
