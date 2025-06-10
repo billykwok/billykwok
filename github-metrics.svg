@@ -1481,7 +1481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Olow304/memvid</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.</div>
@@ -1534,7 +1534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gpuaudio/nam_processor</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jun 2025, 23:14:31 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jun 2025, 00:17:10 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
