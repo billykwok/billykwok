@@ -1492,7 +1492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cosmicshelter/cosmic-texture-browser</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Texture browser for matcaps with Tweakpane integration. 600 matcaps sorted by color and intensity. 512x512 PNG</div>
@@ -1539,7 +1539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenBMB/MiniCPM</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MiniCPM4: Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips</div>
@@ -1631,7 +1631,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Sept 2025, 19:11:02 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Sept 2025, 20:26:03 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
