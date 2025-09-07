@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trueadm/ripple</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">the elegant TypeScript UI framework</div>
@@ -1528,7 +1528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cosmicshelter/cosmic-texture-browser</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Texture browser for matcaps with Tweakpane integration. 600 matcaps sorted by color and intensity. 512x512 PNG</div>
@@ -1575,7 +1575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenBMB/MiniCPM</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MiniCPM4 &amp; MiniCPM4.1: Ultra-Efficient LLMs on End Devices, achieving 3+ generation speedup on reasoning tasks</div>
@@ -1625,7 +1625,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Sept 2025, 19:09:40 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Sept 2025, 20:22:13 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
