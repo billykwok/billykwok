@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>krasimir/forket</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Forket is a tool that splits your code to client and server so you have RSC (React Server Components) working without a framework.</div>
@@ -1481,7 +1481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FormidableLabs/react-swipeable</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React swipe event handler hook</div>
@@ -1637,7 +1637,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Sept 2025, 17:14:19 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Sept 2025, 18:13:46 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
