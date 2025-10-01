@@ -1492,7 +1492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>galacean/engine</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.</div>
@@ -1545,7 +1545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BinomialLLC/basis_universal</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Basis Universal GPU Texture Codec</div>
@@ -1598,7 +1598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gz65555/ktx2-encoder</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KTX2(.ktx2) encoder for images and gltf</div>
@@ -1648,7 +1648,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Oct 2025, 18:13:47 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2025, 19:12:06 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
