@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/suspend-react</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚥 Async/await for React components</div>
@@ -1528,7 +1528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tc39/proposal-import-bytes</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modest proposal for importing bytes in javascript</div>
@@ -1631,7 +1631,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Oct 2025, 06:11:03 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2025, 07:10:21 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
