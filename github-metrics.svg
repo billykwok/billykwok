@@ -1412,7 +1412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>badayvedat/ComfyUI-fal-Connector</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1466,7 +1466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/cost-effective-aws-deployment-of-comfyui</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cost effective solution to deploy ComfyUI on AWS with simple deployment process using ECS and CDK.</div>
@@ -1519,7 +1519,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/nova-act-extension</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Amazon Nova Act is a research preview of a new AI model for developers to build agents that take actions in web browsers</div>
@@ -1572,7 +1572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pypa/hatch</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern, extensible Python project management</div>
@@ -1622,7 +1622,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Oct 2025, 23:12:56 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Oct 2025, 00:16:13 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
