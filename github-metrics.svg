@@ -1417,7 +1417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/bedrock-agentcore-sdk-python</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure.</div>
@@ -1470,7 +1470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>browserstack/mcp-server</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BrowserStack's Official MCP Server</div>
@@ -1523,7 +1523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/sample-agents-with-nova-act-and-mcp</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Discover how to build agents that can perform actions on websites by combining Amazon Nova Act with Model Context Protocol (MCP).</div>
@@ -1627,7 +1627,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Oct 2025, 05:10:30 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2025, 06:10:54 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
