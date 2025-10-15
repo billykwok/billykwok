@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aFarkas/lazysizes</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.</div>
@@ -1492,7 +1492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>whatisjery/react-fluid-distortion</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Post-processing fluid distortion effects in response to cursor interactions for React-Three-Fiber.</div>
@@ -1648,7 +1648,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Oct 2025, 09:00:43 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2025, 10:37:51 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
