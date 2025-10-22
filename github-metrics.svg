@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/sample-browser-order-automation-agentcore</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sample e-commerce order automation application built on Amazon Bedrock AgentCore Browser with Nova Act, Strands Agent, and Playwright MCP for secure browser automation and intelligent agent orchestration capabilities.</div>
@@ -1492,7 +1492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/browser-control-with-nova-act</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1546,7 +1546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NoriginMedia/Norigin-Spatial-Navigation</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Hooks based Spatial Navigation (Key &amp; Remote Control Navigation) / Web Browsers, Smart TVs and Connected TVs</div>
@@ -1649,7 +1649,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Oct 2025, 17:15:32 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2025, 18:15:03 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
