@@ -1429,7 +1429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steven-tey/novel</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Notion-style WYSIWYG editor with AI-powered autocompletion.</div>
@@ -1582,7 +1582,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/sample-browser-order-automation-agentcore</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sample e-commerce order automation application built on Amazon Bedrock AgentCore Browser with Nova Act, Strands Agent, and Playwright MCP for secure browser automation and intelligent agent orchestration capabilities.</div>
@@ -1632,7 +1632,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2025, 16:19:04 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2025, 17:16:55 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
