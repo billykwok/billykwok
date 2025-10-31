@@ -1412,7 +1412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bbc/lrud-spatial</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.</div>
@@ -1465,7 +1465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bbc/lrud</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.</div>
@@ -1615,7 +1615,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Oct 2025, 20:27:18 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2025, 21:25:32 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
