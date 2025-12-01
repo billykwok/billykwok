@@ -1429,7 +1429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tantaraio/voy</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🕸️🦀 A WASM vector similarity search written in Rust</div>
@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/MHR</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Momentum Human Rig is an anatomically-inspired parametric full-body digital human model developed at Meta. It includes: A parametric body skeletal model; A realistic 3D mesh skinned to the skeleton with levels of detail;A body blendshape and pose corrective model; A facial blendshape model.Its design is friendly for both CG and CV communities.</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Dec 2025, 04:14:03 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Dec 2025, 05:11:39 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
