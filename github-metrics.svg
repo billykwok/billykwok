@@ -1598,7 +1598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ashvardanian/SimSIMD</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Up to 200x Faster Dot Products &amp; Similarity Metrics — for Python, Rust, C, JS, and Swift, supporting f64, f32, f16 real &amp; complex, i8, and bit vectors using SIMD for both AVX2, AVX-512, NEON, SVE, &amp; SVE2 📐</div>
@@ -1648,7 +1648,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Dec 2025, 09:02:49 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2025, 11:14:55 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
