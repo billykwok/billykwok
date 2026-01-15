@@ -1497,7 +1497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>amaiorano/raytracing-in-one-weekend-webgpu</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Implementation of the ray tracer described in Ray Tracing in One Weekend (https://raytracing.github.io/books/RayTracingInOneWeekend.html) but in TypeScript on WebGPU</div>
@@ -1550,7 +1550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apple/ml-clara</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1654,7 +1654,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jan 2026, 17:21:33 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jan 2026, 18:16:37 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
