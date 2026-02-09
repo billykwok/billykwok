@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MCP-UI-Org/mcp-ui</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UI over MCP. Create next-gen UI experiences with the protocol and SDK!</div>
@@ -1588,7 +1588,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-telemetry/opentelemetry-java-instrumentation</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenTelemetry auto-instrumentation and instrumentation libraries for Java</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Feb 2026, 16:41:33 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Feb 2026, 17:54:54 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
