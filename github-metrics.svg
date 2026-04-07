@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>astral-sh/ruff-vscode</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Visual Studio Code extension with support for the Ruff linter.</div>
@@ -1487,7 +1487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DetachHead/basedpyright</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server</div>
@@ -1540,7 +1540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/pyright</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Static Type Checker for Python</div>
@@ -1593,7 +1593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tamasfe/taplo</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A TOML toolkit written in Rust</div>
@@ -1643,7 +1643,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Apr 2026, 12:27:54 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Apr 2026, 14:15:22 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
