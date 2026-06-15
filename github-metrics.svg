@@ -1429,7 +1429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>immersive-web/model-element-polyfill</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A polyfill for the HTML Model Element</div>
@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zumerlab/snapdom</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-performance engine for capturing, modifying, and converting DOM elements into any format.</div>
@@ -1588,7 +1588,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>floating-ui/floating-ui</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A JavaScript library to position floating elements and create interactions for them.</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jun 2026, 03:38:56 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jun 2026, 06:11:30 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
