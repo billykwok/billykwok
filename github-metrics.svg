@@ -1429,7 +1429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>immersive-web/model-element-polyfill</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A polyfill for the HTML Model Element</div>
@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zumerlab/snapdom</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-performance engine for capturing, modifying, and converting DOM elements into any format.</div>
@@ -1535,7 +1535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kavinsood/yaos</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jun 2026, 23:38:21 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jun 2026, 03:38:56 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
