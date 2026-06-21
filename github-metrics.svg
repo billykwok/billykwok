@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aymenn8/refine</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Refine text anywhere on macOS Highlight text in any app, press Cmd+Shift+R, then rewrite, fix, translate, or transform it with your own modes.</div>
@@ -1475,7 +1475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jparkerweb/bedrock-proxy-endpoint</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔀 Bedrock Proxy Endpoint  ⇢ Spin up your own custom OpenAI API server endpoint for easy AWS Bedrock inference (using standard baseUrl, and apiKey params)</div>
@@ -1631,7 +1631,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jun 2026, 13:55:02 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2026, 17:39:28 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
