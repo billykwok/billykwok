@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>even-realities/evenhub-templates</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Starter templates for Even Realities G2 smart glasses apps. Four fully working scaffolds — minimal, asr, image, text-heavy. Clone with degit or git clone.</div>
@@ -1540,7 +1540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jparkerweb/bedrock-proxy-endpoint</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔀 Bedrock Proxy Endpoint  ⇢ Spin up your own custom OpenAI API server endpoint for easy AWS Bedrock inference (using standard baseUrl, and apiKey params)</div>
@@ -1593,7 +1593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>immersive-web/model-element-polyfill</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A polyfill for the HTML Model Element</div>
@@ -1643,7 +1643,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jun 2026, 18:30:19 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2026, 21:38:17 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
