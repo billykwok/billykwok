@@ -1429,7 +1429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>felixtrz/aperture</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebGPU-only, ECS-native 3D runtime where simulation is authoritative and rendering is a derived view.</div>
@@ -1529,7 +1529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>even-realities/evenhub-templates</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Starter templates for Even Realities G2 smart glasses apps. Four fully working scaffolds — minimal, asr, image, text-heavy. Clone with degit or git clone.</div>
@@ -1632,7 +1632,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jul 2026, 16:26:07 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jul 2026, 20:39:23 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
