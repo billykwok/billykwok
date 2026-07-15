@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mediamonks/fast-image-sequence</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The fast-image-sequence-renderer is a powerful package for displaying image sequences at high frame rates on websites. Use it to create smooth animations, 360° product views, or video-like sequences from series of images. Zero dependencies.</div>
@@ -1636,7 +1636,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jul 2026, 02:59:05 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jul 2026, 04:09:38 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
