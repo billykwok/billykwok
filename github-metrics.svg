@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mediamonks/fast-image-sequence</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The fast-image-sequence-renderer is a powerful package for displaying image sequences at high frame rates on websites. Use it to create smooth animations, 360° product views, or video-like sequences from series of images. Zero dependencies.</div>
@@ -1486,7 +1486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>felixtrz/aperture</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebGPU-only, ECS-native 3D runtime where simulation is authoritative and rendering is a derived view.</div>
@@ -1636,7 +1636,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jul 2026, 15:08:38 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jul 2026, 17:53:57 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
