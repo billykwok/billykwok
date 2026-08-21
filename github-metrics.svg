@@ -1412,7 +1412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WebReflection/wicked-elements</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Components for the DOM as you've never seen before</div>
@@ -1465,7 +1465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WebReflection/element-notifier</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A MutationObserver dis/connected helper.</div>
@@ -1518,7 +1518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ungap/custom-elements</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All inclusive customElements polyfill for every browser</div>
@@ -1571,7 +1571,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WebReflection/custom-elements-builtin</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A better custom-elements-builtin polyfill, Safari only</div>
@@ -1621,7 +1621,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Aug 2026, 17:28:44 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Aug 2026, 18:21:40 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
