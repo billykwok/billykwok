@@ -1483,7 +1483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WebReflection/qsa-observer</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">handle elements lifecycle through CSS selectors</div>
@@ -1536,7 +1536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoogleChromeLabs/container-query-polyfill</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A polyfill for CSS Container Queries</div>
@@ -1639,7 +1639,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2026, 08:06:02 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2026, 14:29:56 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
